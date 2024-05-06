@@ -4,5 +4,6 @@ If downloading an update, you may be prompted to overwrite existing files, simpl
 Once completed, there will be a "Setup.exe" file that needs to be run to install the GUI.
 
 This project is not affiliated with the Cuberite project, and may not be used in whole or part without permission.
+Permission is granted only for use to install and use a copy of the software. Code may not be re-distributed, modified, or commercialized.
 
 (C) 2024 by Greaper88
