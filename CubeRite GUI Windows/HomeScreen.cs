@@ -58,7 +58,7 @@ It can also launch the server and even has an option to remove all of the server
                 }
 
                 // Extract the downloaded file to install the server. Will overwrite existing files.
-                System.IO.Compression.ZipFile.ExtractToDirectory(downloadPath, programDirectory);
+                System.IO.Compression.ZipFile.ExtractToDirectory(downloadPath, programDirectory, true);
                 MessageBox.Show("Download and extraction complete.", "Success", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 button2.Enabled = true;
             }
